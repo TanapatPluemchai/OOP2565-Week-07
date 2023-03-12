@@ -107,3 +107,5 @@ static void Main(string[] args)
     // ..... เรียกใช้ให้ครบทุก method
 }
 ```
+
+### บันทึกผล
